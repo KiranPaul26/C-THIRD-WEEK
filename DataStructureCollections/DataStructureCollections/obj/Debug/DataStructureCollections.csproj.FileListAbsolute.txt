@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2015\Projects\DataStructureCollections\DataStructureCollections\bin\Debug\DataStructureCollections.exe.config
+c:\users\student\documents\visual studio 2015\Projects\DataStructureCollections\DataStructureCollections\bin\Debug\DataStructureCollections.exe
+c:\users\student\documents\visual studio 2015\Projects\DataStructureCollections\DataStructureCollections\bin\Debug\DataStructureCollections.pdb
+c:\users\student\documents\visual studio 2015\Projects\DataStructureCollections\DataStructureCollections\obj\Debug\DataStructureCollections.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\DataStructureCollections\DataStructureCollections\obj\Debug\DataStructureCollections.exe
+c:\users\student\documents\visual studio 2015\Projects\DataStructureCollections\DataStructureCollections\obj\Debug\DataStructureCollections.pdb

@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2015\Projects\MethodCalculator\MethodCalculator\bin\Debug\MethodCalculator.exe.config
+C:\Users\student\Documents\Visual Studio 2015\Projects\MethodCalculator\MethodCalculator\bin\Debug\MethodCalculator.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\MethodCalculator\MethodCalculator\bin\Debug\MethodCalculator.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\MethodCalculator\MethodCalculator\obj\Debug\MethodCalculator.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\MethodCalculator\MethodCalculator\obj\Debug\MethodCalculator.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\MethodCalculator\MethodCalculator\obj\Debug\MethodCalculator.csprojResolveAssemblyReference.cache

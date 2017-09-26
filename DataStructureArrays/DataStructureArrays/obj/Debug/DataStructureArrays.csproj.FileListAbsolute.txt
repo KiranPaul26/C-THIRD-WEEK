@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2015\Projects\DataStructureArrays\DataStructureArrays\bin\Debug\DataStructureArrays.exe.config
+c:\users\student\documents\visual studio 2015\Projects\DataStructureArrays\DataStructureArrays\bin\Debug\DataStructureArrays.exe
+c:\users\student\documents\visual studio 2015\Projects\DataStructureArrays\DataStructureArrays\bin\Debug\DataStructureArrays.pdb
+c:\users\student\documents\visual studio 2015\Projects\DataStructureArrays\DataStructureArrays\obj\Debug\DataStructureArrays.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\DataStructureArrays\DataStructureArrays\obj\Debug\DataStructureArrays.exe
+c:\users\student\documents\visual studio 2015\Projects\DataStructureArrays\DataStructureArrays\obj\Debug\DataStructureArrays.pdb
