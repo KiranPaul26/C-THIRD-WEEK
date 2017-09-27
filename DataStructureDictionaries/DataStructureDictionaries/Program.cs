@@ -16,7 +16,44 @@ namespace DataStructureDictionaries
             codingLanguages.Add("Java", "Named after its inventor's favourite coffee");
             codingLanguages.Add("Scratch", "Cool for kids");
 
-            if(codingLanguages.ContainsKey())
+            Console.WriteLine("Enter K to find a Key. Enter V to find Value.... ");
+
+
+            //CHECKING IF A KEY OR VALUE IS IN THE DICTIONARY
+            if (codingLanguages.ContainsKey("C#"))
+            {
+                string value = codingLanguages["C#"];
+                Console.WriteLine(value);
+            }
+            else if (codingLanguages.ContainsKey("Java"))
+            {
+                string value = codingLanguages["Java"];
+                Console.WriteLine(value);
+            }
+            else if (codingLanguages.ContainsKey("Scratch"))
+            {
+                string value = codingLanguages["Scratch"];
+                Console.WriteLine(value);
+            }
+            else
+            {
+                Console.WriteLine("This Key doesn't exist.");
+            }
+
+            //USING A KEY TO GET A VALUE
+            //TryGetValue
+
+
+            //COUNT THE LISTS
+
+
+
+            //LIST ALL ENTRIES
+
+
+
+            //EXIT
+
 
         }
     }

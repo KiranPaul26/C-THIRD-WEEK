@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2015\Projects\MiniProjects\MiniProjects\bin\Debug\MiniProjects.exe.config
+c:\users\student\documents\visual studio 2015\Projects\MiniProjects\MiniProjects\bin\Debug\MiniProjects.exe
+c:\users\student\documents\visual studio 2015\Projects\MiniProjects\MiniProjects\bin\Debug\MiniProjects.pdb
+c:\users\student\documents\visual studio 2015\Projects\MiniProjects\MiniProjects\obj\Debug\MiniProjects.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\MiniProjects\MiniProjects\obj\Debug\MiniProjects.exe
+c:\users\student\documents\visual studio 2015\Projects\MiniProjects\MiniProjects\obj\Debug\MiniProjects.pdb
