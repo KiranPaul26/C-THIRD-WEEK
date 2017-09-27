@@ -1,0 +1,9 @@
+C:\Users\student\Documents\Visual Studio 2015\Projects\ObjectOrientation2\ClassesObjectsFields\ClassesObjectsFields\bin\Debug\ClassesObjectsFields.exe.config
+C:\Users\student\Documents\Visual Studio 2015\Projects\ObjectOrientation2\ClassesObjectsFields\ClassesObjectsFields\bin\Debug\ClassesObjectsFields.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\ObjectOrientation2\ClassesObjectsFields\ClassesObjectsFields\bin\Debug\ClassesObjectsFields.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\ObjectOrientation2\ClassesObjectsFields\ClassesObjectsFields\obj\Debug\ClassesObjectsFields.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2015\Projects\ObjectOrientation2\ClassesObjectsFields\ClassesObjectsFields\obj\Debug\ClassesObjectsFields.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\ObjectOrientation2\ClassesObjectsFields\ClassesObjectsFields\obj\Debug\ClassesObjectsFields.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\ObjectOrientation2\ClassesObjectsFieldsMethods\ClassesObjectsFields\bin\Debug\ClassesObjectsFields.exe.config
+C:\Users\student\Documents\Visual Studio 2015\Projects\ObjectOrientation2\ClassesObjectsFieldsMethods\ClassesObjectsFields\obj\Debug\ClassesObjectsFields.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\ObjectOrientation2\ClassesObjectsFieldsMethods\ClassesObjectsFields\obj\Debug\ClassesObjectsFields.pdb
