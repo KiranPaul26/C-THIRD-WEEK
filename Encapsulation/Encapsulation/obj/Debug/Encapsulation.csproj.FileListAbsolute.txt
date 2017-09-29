@@ -1,0 +1,6 @@
+C:\Users\student\Documents\Visual Studio 2015\Projects\ObjectOrientation2\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\student\Documents\Visual Studio 2015\Projects\ObjectOrientation2\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\ObjectOrientation2\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\ObjectOrientation2\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2015\Projects\ObjectOrientation2\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\ObjectOrientation2\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb

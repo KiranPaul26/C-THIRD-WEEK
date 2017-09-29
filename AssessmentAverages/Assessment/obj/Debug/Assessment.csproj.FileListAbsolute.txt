@@ -1,0 +1,12 @@
+C:\Users\student\Documents\Visual Studio 2015\Projects\ObjectOrientation2\Assessment\Assessment\bin\Debug\Assessment.exe.config
+C:\Users\student\Documents\Visual Studio 2015\Projects\ObjectOrientation2\Assessment\Assessment\bin\Debug\Assessment.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\ObjectOrientation2\Assessment\Assessment\bin\Debug\Assessment.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\ObjectOrientation2\Assessment\Assessment\obj\Debug\Assessment.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2015\Projects\ObjectOrientation2\Assessment\Assessment\obj\Debug\Assessment.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\ObjectOrientation2\Assessment\Assessment\obj\Debug\Assessment.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\ObjectOrientation2\AssessmentAverages\Assessment\bin\Debug\Assessment.exe.config
+C:\Users\student\Documents\Visual Studio 2015\Projects\ObjectOrientation2\AssessmentAverages\Assessment\obj\Debug\Assessment.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\ObjectOrientation2\AssessmentAverages\Assessment\obj\Debug\Assessment.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\ObjectOrientation2\AssessmentAverages\Assessment\bin\Debug\Assessment.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\ObjectOrientation2\AssessmentAverages\Assessment\bin\Debug\Assessment.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\ObjectOrientation2\AssessmentAverages\Assessment\obj\Debug\Assessment.csprojResolveAssemblyReference.cache
